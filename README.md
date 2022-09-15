@@ -8,4 +8,4 @@
 - 💬 Ask me about nothing please
 - 📫 How to reach me: I'll set up my Carrd in a bit
 - 😄 Pronouns: They/them
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonTheShining)](https://github.com/anuraghazra/github-readme-stats)
